@@ -1,0 +1,12 @@
+name,value
+微软api,你所申请的tts的信息
+密钥 1,密钥信息
+位置/区域,地域位置信息
+终结点,申请信息中的网址
+openai api,你所申请的openai的api的key信息
+key,注意创建key的时候保存key值
+midjourny,你的midjourney信息
+USER_TOKEN,用户的token
+BOT_TOKEN,机器人的token
+GUILD_ID,服务器的token
+CHANNEL_ID,频道的token
